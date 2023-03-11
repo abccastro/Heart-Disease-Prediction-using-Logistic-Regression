@@ -35,3 +35,10 @@ Launch the Jupyter Notebook
 ```bash
 Heart Disease Prediction.ipynb
 ```
+
+## Group 7 Members
+- Auradee Castro
+- Miraj Sinya
+- Amrita Gyawali
+- Yajur Sethi
+- Sharon Victor
